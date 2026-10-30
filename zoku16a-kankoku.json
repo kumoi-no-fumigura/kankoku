@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kankoku",
  "yomi": "かんこくしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "鎌倉初期",
+  "author": "未詳",
+  "desc": "出家した僧が仏道に向けて歌を集め、仮名の序を付けた家集。養和から元久にかけての年記があり、加賀・駿河などでの修行と詠歌の跡をたどれる。作者の名は伝わらない。"
+ },
  "editions": [
   {
    "pid": "936505",
